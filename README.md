@@ -2,21 +2,21 @@ MadGames 🎮
 A cross-platform gaming discovery app built with Kotlin Multiplatform and Compose Multiplatform
 
 🚀 Key Features
-Cross-Platform Support: Runs on Android, iOS, and Desktop (JVM)
-Game Discovery: Browse and discover games using the RAWG Video Games API
-Search Functionality: Search for specific games (implementation in progress)
-Favorites System: Save and manage favorite games (implementation in progress)
-Modern UI: Built with Jetpack Compose/Compose Multiplatform for native performance
+- Cross-Platform Support: Runs on Android, iOS, and Desktop (JVM)
+- Game Discovery: Browse and discover games using the RAWG Video Games API
+- Search Functionality: Search for specific games (implementation in progress)
+- Favorites System: Save and manage favorite games (implementation in progress)
+- Modern UI: Built with Jetpack Compose/Compose Multiplatform for native performance
 
 🏗️ Architecture & Tech Stack
-Kotlin Multiplatform: Share business logic across platforms
-Compose Multiplatform: Modern declarative UI framework
-Clean Architecture: Organized in feature-based modules (data, domain, ui)
-MVVM Pattern: ViewModel-driven UI state management
-Dependency Injection: Koin for DI across all platforms
-Networking: Ktor client for API communication
-Image Loading: Coil3 for efficient image loading and caching
-Database: SQLDelight for local data persistence (setup ready)
+- Kotlin Multiplatform: Share business logic across platforms
+- Compose Multiplatform: Modern declarative UI framework
+- Clean Architecture: Organized in feature-based modules (data, domain, ui)
+- MVVM Pattern: ViewModel-driven UI state management
+- Dependency Injection: Koin for DI across all platforms
+- Networking: Ktor client for API communication
+- Image Loading: Coil3 for efficient image loading and caching
+- Database: SQLDelight for local data persistence (setup ready)
 
 🎯 API Integration
 Powered by the RAWG Video Games Database API for comprehensive game data including:
