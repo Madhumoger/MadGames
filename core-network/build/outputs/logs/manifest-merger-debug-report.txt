@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/madhushankarmoger/Android Learning/Gamopedia/core-network/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16115446493619836297.xml:2:13-83
+INJECTED from /Users/madhushankarmoger/Android Learning/Gamopedia/core-network/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16115446493619836297.xml:2:13-83
+	package
+		INJECTED from /Users/madhushankarmoger/Android Learning/Gamopedia/core-network/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16115446493619836297.xml
+	xmlns:android
+		ADDED from /Users/madhushankarmoger/Android Learning/Gamopedia/core-network/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16115446493619836297.xml:2:23-81
+uses-sdk
+INJECTED from /Users/madhushankarmoger/Android Learning/Gamopedia/core-network/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16115446493619836297.xml reason: use-sdk injection requested
+INJECTED from /Users/madhushankarmoger/Android Learning/Gamopedia/core-network/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16115446493619836297.xml
+INJECTED from /Users/madhushankarmoger/Android Learning/Gamopedia/core-network/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16115446493619836297.xml
+	android:targetSdkVersion
+		INJECTED from /Users/madhushankarmoger/Android Learning/Gamopedia/core-network/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16115446493619836297.xml
+	android:minSdkVersion
+		INJECTED from /Users/madhushankarmoger/Android Learning/Gamopedia/core-network/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16115446493619836297.xml

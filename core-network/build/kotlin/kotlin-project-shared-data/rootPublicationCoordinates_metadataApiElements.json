@@ -1,0 +1,8 @@
+{
+  "buildPath": ":",
+  "projectPath": ":core-network",
+  "moduleId": {
+    "groupId": "Gamopedia",
+    "moduleId": "core-network"
+  }
+}

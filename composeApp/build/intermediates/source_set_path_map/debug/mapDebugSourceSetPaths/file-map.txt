@@ -1,0 +1,61 @@
+com.sample.gamopedia.project.composeApp-annotation-experimental-1.4.1-0 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/099c5899e952a53bbfc2839b2e641b90/transformed/annotation-experimental-1.4.1/res
+com.sample.gamopedia.project.composeApp-lifecycle-viewmodel-ktx-2.9.2-1 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/09a0f63aae7d250d660a006543780fa1/transformed/lifecycle-viewmodel-ktx-2.9.2/res
+com.sample.gamopedia.project.composeApp-navigation-compose-2.7.7-2 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/11f7f43f75408e1c85cf2102f6e5322a/transformed/navigation-compose-2.7.7/res
+com.sample.gamopedia.project.composeApp-customview-poolingcontainer-1.0.0-3 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/16d21cafc4ced5dfc46a5821e1ded2f5/transformed/customview-poolingcontainer-1.0.0/res
+com.sample.gamopedia.project.composeApp-ui-graphics-release-4 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/23f4c1abd9608744668ddbe55d07e680/transformed/ui-graphics-release/res
+com.sample.gamopedia.project.composeApp-appcompat-resources-1.7.0-5 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/29664b601c765d83290d188b3ede47d6/transformed/appcompat-resources-1.7.0/res
+com.sample.gamopedia.project.composeApp-foundation-release-6 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/354e4e66fc645c668a9a93ff60dcef9e/transformed/foundation-release/res
+com.sample.gamopedia.project.composeApp-lifecycle-viewmodel-savedstate-release-7 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/3a1b6c583f2bc95c772599101a03b446/transformed/lifecycle-viewmodel-savedstate-release/res
+com.sample.gamopedia.project.composeApp-core-viewtree-1.0.0-8 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/555e071d9a8d73a2b39ebcbbc61a757d/transformed/core-viewtree-1.0.0/res
+com.sample.gamopedia.project.composeApp-savedstate-release-9 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/5cd17d853f98dca017a86847157fedaa/transformed/savedstate-release/res
+com.sample.gamopedia.project.composeApp-lifecycle-runtime-compose-release-10 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/60ed85838d1419dbc8ab2b003776165f/transformed/lifecycle-runtime-compose-release/res
+com.sample.gamopedia.project.composeApp-graphics-path-1.0.1-11 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/6b8750f7b68101650ea561de65c6fd74/transformed/graphics-path-1.0.1/res
+com.sample.gamopedia.project.composeApp-navigation-common-2.7.7-12 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/76fada23fc804847d4b8fa1df2a8e420/transformed/navigation-common-2.7.7/res
+com.sample.gamopedia.project.composeApp-core-bundle-debug-13 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/7a91f15eb48b20a3aa481b698e6802a1/transformed/core-bundle-debug/res
+com.sample.gamopedia.project.composeApp-navigation-common-ktx-2.7.7-14 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/7b6749faf12de2977a9a6fa45b6f57b8/transformed/navigation-common-ktx-2.7.7/res
+com.sample.gamopedia.project.composeApp-coil-core-release-15 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/8ac8f19923398e70fc4fcef8358efb78/transformed/coil-core-release/res
+com.sample.gamopedia.project.composeApp-lifecycle-process-2.9.2-16 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/95eaa0e0126cc219ac4f6b77b282078b/transformed/lifecycle-process-2.9.2/res
+com.sample.gamopedia.project.composeApp-savedstate-ktx-1.3.1-17 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/9808118317e340ae8ac921e023b5ab5c/transformed/savedstate-ktx-1.3.1/res
+com.sample.gamopedia.project.composeApp-ui-backhandler-debug-18 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/9aca237d8c5139eec2708969de998c75/transformed/ui-backhandler-debug/res
+com.sample.gamopedia.project.composeApp-lifecycle-viewmodel-release-19 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/9e00429f3a662570cae6382622d2fa43/transformed/lifecycle-viewmodel-release/res
+com.sample.gamopedia.project.composeApp-navigation-runtime-ktx-2.7.7-20 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/a4b84c0e74a2ad9dc617db1e1b4936b0/transformed/navigation-runtime-ktx-2.7.7/res
+com.sample.gamopedia.project.composeApp-navigation-runtime-2.7.7-21 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/a529db3823fa6382eada303e97c0b5bb/transformed/navigation-runtime-2.7.7/res
+com.sample.gamopedia.project.composeApp-core-ktx-1.15.0-22 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/a748c39233b378ec586e1231e2362b72/transformed/core-ktx-1.15.0/res
+com.sample.gamopedia.project.composeApp-emoji2-1.4.0-23 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/aaa90711dfee9c830540a8588945707b/transformed/emoji2-1.4.0/res
+com.sample.gamopedia.project.composeApp-material-release-24 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/af57573cf39aa1e3743de429eb9aa5de/transformed/material-release/res
+com.sample.gamopedia.project.composeApp-core-1.15.0-25 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/bdd0ea901497e48ccaaa210bead1e5ac/transformed/core-1.15.0/res
+com.sample.gamopedia.project.composeApp-core-runtime-2.2.0-26 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/c76d3b53d04beec34566a22fb79b8e50/transformed/core-runtime-2.2.0/res
+com.sample.gamopedia.project.composeApp-activity-1.11.0-27 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/cabc36b6d37bc3023567d36990691fc7/transformed/activity-1.11.0/res
+com.sample.gamopedia.project.composeApp-activity-compose-1.11.0-28 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/cbae8c80b5b63a53fc012128ae91a2fe/transformed/activity-compose-1.11.0/res
+com.sample.gamopedia.project.composeApp-tracing-1.2.0-29 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/cc3d12547d5ae3c1b76a582955cfebf9/transformed/tracing-1.2.0/res
+com.sample.gamopedia.project.composeApp-lifecycle-viewmodel-compose-release-30 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/d500a9241568189aa1b5935a37c94921/transformed/lifecycle-viewmodel-compose-release/res
+com.sample.gamopedia.project.composeApp-lifecycle-livedata-core-2.9.2-31 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/d6440855b1ecc1c00a71c7b516551e06/transformed/lifecycle-livedata-core-2.9.2/res
+com.sample.gamopedia.project.composeApp-savedstate-compose-release-32 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/d64e2ee6939c12967845301f55286a83/transformed/savedstate-compose-release/res
+com.sample.gamopedia.project.composeApp-material3-release-33 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/dd321ab9a83fc226af875feb55177686/transformed/material3-release/res
+com.sample.gamopedia.project.composeApp-material-icons-core-release-34 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/de9bb25a74cddb145b9b617dc4f9e46f/transformed/material-icons-core-release/res
+com.sample.gamopedia.project.composeApp-profileinstaller-1.4.1-35 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/ded0209b8f83d80d49b44c3605055383/transformed/profileinstaller-1.4.1/res
+com.sample.gamopedia.project.composeApp-material-ripple-release-36 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/e31a289b1b2c74ab39a07975935170be/transformed/material-ripple-release/res
+com.sample.gamopedia.project.composeApp-lifecycle-runtime-release-37 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/f4c4df2301db92c3e0e28e103b83fc64/transformed/lifecycle-runtime-release/res
+com.sample.gamopedia.project.composeApp-ui-release-38 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/f576a9801ce7d0f0f93e6512ba5f54a9/transformed/ui-release/res
+com.sample.gamopedia.project.composeApp-startup-runtime-1.1.1-39 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/f9e976ef0d729b69ec20c510312ba0d6/transformed/startup-runtime-1.1.1/res
+com.sample.gamopedia.project.composeApp-activity-ktx-1.11.0-40 /Users/madhushankarmoger/.gradle/caches/8.13/transforms/fbc6b6fa1bbf8ed701dcd9968d3ba624/transformed/activity-ktx-1.11.0/res
+com.sample.gamopedia.project.composeApp-pngs-41 /Users/madhushankarmoger/Android Learning/Gamopedia/composeApp/build/generated/res/pngs/debug
+com.sample.gamopedia.project.composeApp-resValues-42 /Users/madhushankarmoger/Android Learning/Gamopedia/composeApp/build/generated/res/resValues/debug
+com.sample.gamopedia.project.composeApp-packageDebugResources-43 /Users/madhushankarmoger/Android Learning/Gamopedia/composeApp/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.sample.gamopedia.project.composeApp-packageDebugResources-44 /Users/madhushankarmoger/Android Learning/Gamopedia/composeApp/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.sample.gamopedia.project.composeApp-debug-45 /Users/madhushankarmoger/Android Learning/Gamopedia/composeApp/build/intermediates/merged_res/debug/mergeDebugResources
+com.sample.gamopedia.project.composeApp-androidDebug-46 /Users/madhushankarmoger/Android Learning/Gamopedia/composeApp/src/androidDebug/res
+com.sample.gamopedia.project.composeApp-androidMain-47 /Users/madhushankarmoger/Android Learning/Gamopedia/composeApp/src/androidMain/res
+com.sample.gamopedia.project.composeApp-debug-48 /Users/madhushankarmoger/Android Learning/Gamopedia/composeApp/src/debug/res
+com.sample.gamopedia.project.composeApp-main-49 /Users/madhushankarmoger/Android Learning/Gamopedia/composeApp/src/main/res
+com.sample.gamopedia.project.composeApp-debug-50 /Users/madhushankarmoger/Android Learning/Gamopedia/core-database/build/intermediates/packaged_res/debug/packageDebugResources
+com.sample.gamopedia.project.composeApp-debug-51 /Users/madhushankarmoger/Android Learning/Gamopedia/core-network/build/intermediates/packaged_res/debug/packageDebugResources
+com.sample.gamopedia.project.composeApp-debug-52 /Users/madhushankarmoger/Android Learning/Gamopedia/favourite/data/build/intermediates/packaged_res/debug/packageDebugResources
+com.sample.gamopedia.project.composeApp-debug-53 /Users/madhushankarmoger/Android Learning/Gamopedia/favourite/domain/build/intermediates/packaged_res/debug/packageDebugResources
+com.sample.gamopedia.project.composeApp-debug-54 /Users/madhushankarmoger/Android Learning/Gamopedia/favourite/ui/build/intermediates/packaged_res/debug/packageDebugResources
+com.sample.gamopedia.project.composeApp-debug-55 /Users/madhushankarmoger/Android Learning/Gamopedia/game/data/build/intermediates/packaged_res/debug/packageDebugResources
+com.sample.gamopedia.project.composeApp-debug-56 /Users/madhushankarmoger/Android Learning/Gamopedia/game/domain/build/intermediates/packaged_res/debug/packageDebugResources
+com.sample.gamopedia.project.composeApp-debug-57 /Users/madhushankarmoger/Android Learning/Gamopedia/game/ui/build/intermediates/packaged_res/debug/packageDebugResources
+com.sample.gamopedia.project.composeApp-debug-58 /Users/madhushankarmoger/Android Learning/Gamopedia/search/data/build/intermediates/packaged_res/debug/packageDebugResources
+com.sample.gamopedia.project.composeApp-debug-59 /Users/madhushankarmoger/Android Learning/Gamopedia/search/domain/build/intermediates/packaged_res/debug/packageDebugResources
+com.sample.gamopedia.project.composeApp-debug-60 /Users/madhushankarmoger/Android Learning/Gamopedia/search/ui/build/intermediates/packaged_res/debug/packageDebugResources

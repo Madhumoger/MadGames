@@ -1,0 +1,8 @@
+{
+  "buildPath": ":",
+  "projectPath": ":game:domain",
+  "moduleId": {
+    "groupId": "Gamopedia.game",
+    "moduleId": "domain"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "projectStructure": {
+    "formatVersion": "0.3.3",
+    "isPublishedAsRoot": "true",
+    "variants": [
+      {
+        "name": "debugApiElements",
+        "sourceSet": [
+          "commonMain"
+        ]
+      },
+      {
+        "name": "debugRuntimeElements",
+        "sourceSet": [
+          "commonMain"
+        ]
+      },
+      {
+        "name": "releaseApiElements",
+        "sourceSet": [
+          "commonMain"
+        ]
+      },
+      {
+        "name": "releaseRuntimeElements",
+        "sourceSet": [
+          "commonMain"
+        ]
+      },
+      {
+        "name": "iosArm64ApiElements",
+        "sourceSet": [
+          "iosMain",
+          "appleMain",
+          "nativeMain",
+          "commonMain"
+        ]
+      },
+      {
+        "name": "iosSimulatorArm64ApiElements",
+        "sourceSet": [
+          "iosMain",
+          "appleMain",
+          "nativeMain",
+          "commonMain"
+        ]
+      },
+      {
+        "name": "jvmApiElements",
+        "sourceSet": [
+          "commonMain"
+        ]
+      },
+      {
+        "name": "jvmRuntimeElements",
+        "sourceSet": [
+          "commonMain"
+        ]
+      }
+    ],
+    "sourceSets": [
+      {
+        "name": "appleMain",
+        "dependsOn": [
+          "nativeMain"
+        ],
+        "moduleDependency": [
+          "Gamopedia.game:domain",
+          "org.jetbrains.compose.runtime:runtime",
+          "org.jetbrains.compose.foundation:foundation",
+          "org.jetbrains.compose.material3:material3",
+          "org.jetbrains.compose.ui:ui",
+          "org.jetbrains.compose.components:components-resources",
+          "org.jetbrains.compose.components:components-ui-tooling-preview",
+          "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose",
+          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose",
+          "io.insert-koin:koin-compose-viewmodel",
+          "io.coil-kt.coil3:coil-compose",
+          "io.coil-kt.coil3:coil-network-ktor3"
+        ],
+        "sourceSetCInteropMetadataDirectory": "appleMain-cinterop",
+        "binaryLayout": "klib",
+        "hostSpecific": "true"
+      },
+      {
+        "name": "commonMain",
+        "dependsOn": [],
+        "moduleDependency": [
+          "org.jetbrains.kotlin:kotlin-stdlib",
+          "Gamopedia.game:domain",
+          "org.jetbrains.compose.runtime:runtime",
+          "org.jetbrains.compose.foundation:foundation",
+          "org.jetbrains.compose.material3:material3",
+          "org.jetbrains.compose.ui:ui",
+          "org.jetbrains.compose.components:components-resources",
+          "org.jetbrains.compose.components:components-ui-tooling-preview",
+          "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose",
+          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose",
+          "io.insert-koin:koin-compose-viewmodel",
+          "io.coil-kt.coil3:coil-compose",
+          "io.coil-kt.coil3:coil-network-ktor3"
+        ],
+        "binaryLayout": "klib"
+      },
+      {
+        "name": "iosMain",
+        "dependsOn": [
+          "appleMain"
+        ],
+        "moduleDependency": [
+          "Gamopedia.game:domain",
+          "org.jetbrains.compose.runtime:runtime",
+          "org.jetbrains.compose.foundation:foundation",
+          "org.jetbrains.compose.material3:material3",
+          "org.jetbrains.compose.ui:ui",
+          "org.jetbrains.compose.components:components-resources",
+          "org.jetbrains.compose.components:components-ui-tooling-preview",
+          "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose",
+          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose",
+          "io.insert-koin:koin-compose-viewmodel",
+          "io.coil-kt.coil3:coil-compose",
+          "io.coil-kt.coil3:coil-network-ktor3"
+        ],
+        "sourceSetCInteropMetadataDirectory": "iosMain-cinterop",
+        "binaryLayout": "klib",
+        "hostSpecific": "true"
+      },
+      {
+        "name": "nativeMain",
+        "dependsOn": [
+          "commonMain"
+        ],
+        "moduleDependency": [
+          "Gamopedia.game:domain",
+          "org.jetbrains.compose.runtime:runtime",
+          "org.jetbrains.compose.foundation:foundation",
+          "org.jetbrains.compose.material3:material3",
+          "org.jetbrains.compose.ui:ui",
+          "org.jetbrains.compose.components:components-resources",
+          "org.jetbrains.compose.components:components-ui-tooling-preview",
+          "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose",
+          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose",
+          "io.insert-koin:koin-compose-viewmodel",
+          "io.coil-kt.coil3:coil-compose",
+          "io.coil-kt.coil3:coil-network-ktor3"
+        ],
+        "sourceSetCInteropMetadataDirectory": "nativeMain-cinterop",
+        "binaryLayout": "klib",
+        "hostSpecific": "true"
+      }
+    ]
+  }
+}
