@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.sample.gamopedia.project.composeApp-mergeDebugResources-43:/values-v30/values-v30.xml",
+            "outputFile": "com.sample.gamopedia.project.composeApp-mergeDebugResources-45:/values-v30/values-v30.xml",
             "map": [
                 {
-                    "source": "/Users/madhushankarmoger/.gradle/caches/8.13/transforms/dd321ab9a83fc226af875feb55177686/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "source": "/Users/madhushankarmoger/.gradle/caches/8.13/transforms/2df43e681b92a38c45e680e22cc1ed25/transformed/material3-release/res/values-v30/values-v30.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,7 +1,6 @@
 package com.sample.game.domain.useCases
 
-import androidx.compose.runtime.snapshots.SnapshotApplyResult
-import com.sample.game.domain.model.Game
+import com.sample.common.domain.model.Game
 import com.sample.game.domain.repository.GameRepository
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.IO

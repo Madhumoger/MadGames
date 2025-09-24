@@ -1,9 +1,8 @@
 package com.sample.game.ui.game
 
-import androidx.compose.runtime.MutableState
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.sample.game.domain.model.Game
+import com.sample.common.domain.model.Game
 import com.sample.game.domain.useCases.GetGamesUseCase
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.asStateFlow

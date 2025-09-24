@@ -25,7 +25,7 @@ fun App() {
         NavHost(navHostController, startDestination = GameNavGraph.Dest.Root.route) {
             listOf(
                 GameNavGraph,
-//                SearchNavGraph,
+                SearchNavGraph,
 //                FavouriteNavGraph
             ).forEach {
                 it.build(

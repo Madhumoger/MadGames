@@ -72,10 +72,14 @@ fun GameScreenContent(
             },
                 actions = {
                     IconButton(onClick = onSearchClick) {
+                        Text("Search")
+                        //TODO
 //                        Icon(painter = Painter(Res.drawable.ic_search) , contentDescription = null)
                     }
 
                     IconButton(onClick = onFavoriteClick) {
+                        //TODO
+                        Text("Favourite")
 //                        Icon(imageVector = Icons.Default.Favorite, contentDescription = null)
                     }
                 }, colors = TopAppBarColors(

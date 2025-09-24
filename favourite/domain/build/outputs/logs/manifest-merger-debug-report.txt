@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/madhushankarmoger/Android Learning/Gamopedia/favourite/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9450923366534902697.xml:2:13-83
-INJECTED from /Users/madhushankarmoger/Android Learning/Gamopedia/favourite/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9450923366534902697.xml:2:13-83
+ADDED from /Users/madhushankarmoger/Android Learning/MadGames/favourite/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3228617813514934469.xml:2:13-83
+INJECTED from /Users/madhushankarmoger/Android Learning/MadGames/favourite/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3228617813514934469.xml:2:13-83
 	package
-		INJECTED from /Users/madhushankarmoger/Android Learning/Gamopedia/favourite/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9450923366534902697.xml
+		INJECTED from /Users/madhushankarmoger/Android Learning/MadGames/favourite/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3228617813514934469.xml
 	xmlns:android
-		ADDED from /Users/madhushankarmoger/Android Learning/Gamopedia/favourite/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9450923366534902697.xml:2:23-81
+		ADDED from /Users/madhushankarmoger/Android Learning/MadGames/favourite/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3228617813514934469.xml:2:23-81
 uses-sdk
-INJECTED from /Users/madhushankarmoger/Android Learning/Gamopedia/favourite/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9450923366534902697.xml reason: use-sdk injection requested
-INJECTED from /Users/madhushankarmoger/Android Learning/Gamopedia/favourite/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9450923366534902697.xml
-INJECTED from /Users/madhushankarmoger/Android Learning/Gamopedia/favourite/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9450923366534902697.xml
+INJECTED from /Users/madhushankarmoger/Android Learning/MadGames/favourite/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3228617813514934469.xml reason: use-sdk injection requested
+INJECTED from /Users/madhushankarmoger/Android Learning/MadGames/favourite/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3228617813514934469.xml
+INJECTED from /Users/madhushankarmoger/Android Learning/MadGames/favourite/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3228617813514934469.xml
 	android:targetSdkVersion
-		INJECTED from /Users/madhushankarmoger/Android Learning/Gamopedia/favourite/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9450923366534902697.xml
+		INJECTED from /Users/madhushankarmoger/Android Learning/MadGames/favourite/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3228617813514934469.xml
 	android:minSdkVersion
-		INJECTED from /Users/madhushankarmoger/Android Learning/Gamopedia/favourite/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9450923366534902697.xml
+		INJECTED from /Users/madhushankarmoger/Android Learning/MadGames/favourite/domain/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3228617813514934469.xml

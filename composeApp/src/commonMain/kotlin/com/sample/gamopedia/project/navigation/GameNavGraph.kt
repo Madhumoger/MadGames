@@ -36,7 +36,7 @@ object GameNavGraph : BaseNavGraph {
                     onFavoriteClick = {
 //                        navHostController.navigate(route = FavouriteNavGraph.Dest.Favorite.route)
                     }, onSearchClick = {
-//                        navHostController.navigate(SearchNavGraph.Dest.Search.route)
+                        navHostController.navigate(SearchNavGraph.Dest.Search.route)
                     }, onClick = {
 //                        navHostController.navigate(Dest.Details.getRoute(it))
                     })

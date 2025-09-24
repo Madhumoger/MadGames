@@ -47,3 +47,7 @@ include(":favourite:data")
 include(":game:ui")
 include(":game:domain")
 include(":game:data")
+
+include(":common:ui")
+include(":common:data")
+include(":common:domain")

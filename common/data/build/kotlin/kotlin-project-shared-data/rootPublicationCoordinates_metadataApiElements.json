@@ -1,0 +1,8 @@
+{
+  "buildPath": ":",
+  "projectPath": ":common:data",
+  "moduleId": {
+    "groupId": "Gamopedia.common",
+    "moduleId": "data"
+  }
+}
