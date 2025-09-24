@@ -1,16 +1,28 @@
-This is a Kotlin Multiplatform project targeting Android, iOS, Desktop (JVM).
+MadGames 🎮
+A cross-platform gaming discovery app built with Kotlin Multiplatform and Compose Multiplatform
 
-* [/composeApp](./composeApp/src) is for code that will be shared across your Compose Multiplatform applications.
-  It contains several subfolders:
-  - [commonMain](./composeApp/src/commonMain/kotlin) is for code that’s common for all targets.
-  - Other folders are for Kotlin code that will be compiled for only the platform indicated in the folder name.
-    For example, if you want to use Apple’s CoreCrypto for the iOS part of your Kotlin app,
-    the [iosMain](./composeApp/src/iosMain/kotlin) folder would be the right place for such calls.
-    Similarly, if you want to edit the Desktop (JVM) specific part, the [jvmMain](./composeApp/src/jvmMain/kotlin)
-    folder is the appropriate location.
+🚀 Key Features
+Cross-Platform Support: Runs on Android, iOS, and Desktop (JVM)
+Game Discovery: Browse and discover games using the RAWG Video Games API
+Search Functionality: Search for specific games (implementation in progress)
+Favorites System: Save and manage favorite games (implementation in progress)
+Modern UI: Built with Jetpack Compose/Compose Multiplatform for native performance
 
-* [/iosApp](./iosApp/iosApp) contains iOS applications. Even if you’re sharing your UI with Compose Multiplatform,
-  you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
+🏗️ Architecture & Tech Stack
+Kotlin Multiplatform: Share business logic across platforms
+Compose Multiplatform: Modern declarative UI framework
+Clean Architecture: Organized in feature-based modules (data, domain, ui)
+MVVM Pattern: ViewModel-driven UI state management
+Dependency Injection: Koin for DI across all platforms
+Networking: Ktor client for API communication
+Image Loading: Coil3 for efficient image loading and caching
+Database: SQLDelight for local data persistence (setup ready)
+
+🎯 API Integration
+Powered by the RAWG Video Games Database API for comprehensive game data including:
+Game metadata and descriptions
+High-quality game artwork and screenshots
+Search and filtering capabilities
 
 ### Build and Run Android Application
 
