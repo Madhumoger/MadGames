@@ -7,6 +7,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.navigation.compose.composable
 import androidx.navigation.navigation
 import com.sample.game.ui.game.GameScreen
+import com.sample.game.ui.gameDetails.GameDetailsScreen
 
 object GameNavGraph : BaseNavGraph {
 
@@ -38,18 +39,17 @@ object GameNavGraph : BaseNavGraph {
                     }, onSearchClick = {
                         navHostController.navigate(SearchNavGraph.Dest.Search.route)
                     }, onClick = {
-//                        navHostController.navigate(Dest.Details.getRoute(it))
+                        navHostController.navigate(Dest.Details.getRoute(it))
                     })
             }
 
 
-//            composable(route = Dest.Details.route) {
-//                val id = it.arguments?.getString("id")
-//                GameDetailsScreen(modifier = modifier.fillMaxSize(), id.toString(), onBackClick = {
-//                    navHostController.popBackStack()
-//                })
-//            }
-
+            composable(route = Dest.Details.route) {
+                val id = it.arguments?.getString("id")
+                GameDetailsScreen(modifier = modifier.fillMaxSize(), id.toString(), onBackClick = {
+                    navHostController.popBackStack()
+                })
+            }
 
         }
     }
