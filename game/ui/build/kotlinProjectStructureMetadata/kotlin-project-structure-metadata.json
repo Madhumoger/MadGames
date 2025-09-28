@@ -66,6 +66,7 @@
         ],
         "moduleDependency": [
           "Gamopedia.game:domain",
+          "Gamopedia.common:domain",
           "org.jetbrains.compose.runtime:runtime",
           "org.jetbrains.compose.foundation:foundation",
           "org.jetbrains.compose.material3:material3",
@@ -88,6 +89,7 @@
         "moduleDependency": [
           "org.jetbrains.kotlin:kotlin-stdlib",
           "Gamopedia.game:domain",
+          "Gamopedia.common:domain",
           "org.jetbrains.compose.runtime:runtime",
           "org.jetbrains.compose.foundation:foundation",
           "org.jetbrains.compose.material3:material3",
@@ -109,6 +111,7 @@
         ],
         "moduleDependency": [
           "Gamopedia.game:domain",
+          "Gamopedia.common:domain",
           "org.jetbrains.compose.runtime:runtime",
           "org.jetbrains.compose.foundation:foundation",
           "org.jetbrains.compose.material3:material3",
@@ -132,6 +135,7 @@
         ],
         "moduleDependency": [
           "Gamopedia.game:domain",
+          "Gamopedia.common:domain",
           "org.jetbrains.compose.runtime:runtime",
           "org.jetbrains.compose.foundation:foundation",
           "org.jetbrains.compose.material3:material3",

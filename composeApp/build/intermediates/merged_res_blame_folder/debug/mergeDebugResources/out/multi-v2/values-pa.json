@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.sample.gamopedia.project.composeApp-mergeDebugResources-45:/values-pa/values-pa.xml",
+            "outputFile": "com.sample.gamopedia.project.composeApp-mergeDebugResources-47:/values-pa/values-pa.xml",
             "map": [
                 {
                     "source": "/Users/madhushankarmoger/.gradle/caches/8.13/transforms/e034e159879782668488d8935f720bf6/transformed/ui-release/res/values-pa/values-pa.xml",

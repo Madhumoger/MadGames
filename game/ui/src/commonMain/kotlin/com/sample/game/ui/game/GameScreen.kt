@@ -107,6 +107,7 @@ fun GameScreenContent(
         uiState.data?.let { data ->
             LazyColumn(modifier = modifier.fillMaxSize()) {
                 items(data) {
+                    //TODO: CAN REPLACE  WITH GAME ITEM
                     Card(
                         modifier = Modifier.padding(12.dp).fillMaxWidth().height(350.dp)
                             .clickable { onClick(it.id) },
@@ -135,7 +136,6 @@ fun GameScreenContent(
                                 )
                             }
                         }
-
                     }
                 }
             }

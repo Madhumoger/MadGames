@@ -8,7 +8,7 @@ import com.sample.game.domain.model.GameDetails
 import com.sample.game.domain.repository.GameRepository
 
 class GameRepositoryImpl(
-    private val apiService: ApiService, ) : GameRepository {
+    private val apiService: ApiService, private val appDatabase: AppDatabase) : GameRepository {
 
     override suspend fun getGames(): Result<List<Game>> {
         val result = apiService.getGames()
@@ -29,13 +29,13 @@ class GameRepositoryImpl(
     }
 
     override suspend fun save(id: Int, image: String, name: String) {
-//        appDatabase.appDatabaseQueries
-//            .upsert(id.toLong(), image, name)
+        appDatabase.appDatabaseQueries
+            .upsert(id.toLong(), image, name)
     }
 
     override suspend fun delete(id: Int) {
-//        appDatabase.appDatabaseQueries
-//            .delete(id.toLong())
+        appDatabase.appDatabaseQueries
+            .delete(id.toLong())
     }
 
 }

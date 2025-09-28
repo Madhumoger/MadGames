@@ -1,0 +1,4 @@
+/Users/madhushankarmoger/Android Learning/MadGames/common/ui/build/generated/compose/resourceGenerator/kotlin/commonMainResourceCollectors/gamopedia/common/ui/generated/resources/ExpectResourceCollectors.kt
+/Users/madhushankarmoger/Android Learning/MadGames/common/ui/build/generated/compose/resourceGenerator/kotlin/commonResClass/gamopedia/common/ui/generated/resources/Res.kt
+/Users/madhushankarmoger/Android Learning/MadGames/common/ui/src/commonMain/kotlin/com/sample/common/ui/listitem/GameItem.kt
+/Users/madhushankarmoger/Android Learning/MadGames/common/ui/build/generated/compose/resourceGenerator/kotlin/androidMainResourceCollectors/gamopedia/common/ui/generated/resources/ActualResourceCollectors.kt

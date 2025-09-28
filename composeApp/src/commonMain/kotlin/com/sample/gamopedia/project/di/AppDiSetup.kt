@@ -21,10 +21,10 @@ fun initKoin(koinApplication: ((KoinApplication) -> Unit)? = null) {
             getSearchDataModule(),
             getSearchDomainModule(),
             getSearchUiModule(),
-//            getCoreDatabaseModule(),
-//            getFavoriteDataModule(),
-//            getFavoriteDomainModule(),
-//            getFavoriteUiModule()
+            getCoreDatabaseModule(),
+            getFavoriteDataModule(),
+            getFavoriteDomainModule(),
+            getFavoriteUiModule()
         )
     }
 }

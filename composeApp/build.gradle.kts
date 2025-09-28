@@ -22,7 +22,8 @@ kotlin {
     ).forEach { iosTarget ->
         iosTarget.binaries.framework {
             baseName = "ComposeApp"
-            isStatic = true
+//            isStatic = true
+            linkerOpts("-lsqlite3")
         }
     }
     
@@ -48,6 +49,8 @@ kotlin {
             implementation(projects.game.data)
             implementation(projects.game.domain)
             implementation(projects.game.ui)
+
+            implementation(projects.coreDatabase)
 
             implementation(compose.runtime)
             implementation(compose.foundation)

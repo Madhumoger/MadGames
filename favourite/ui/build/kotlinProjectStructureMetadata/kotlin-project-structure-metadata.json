@@ -65,6 +65,9 @@
           "nativeMain"
         ],
         "moduleDependency": [
+          "Gamopedia.favourite:domain",
+          "Gamopedia.common:domain",
+          "Gamopedia.common:ui",
           "org.jetbrains.compose.runtime:runtime",
           "org.jetbrains.compose.foundation:foundation",
           "org.jetbrains.compose.material3:material3",
@@ -72,7 +75,9 @@
           "org.jetbrains.compose.components:components-resources",
           "org.jetbrains.compose.components:components-ui-tooling-preview",
           "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose",
-          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose"
+          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose",
+          "io.insert-koin:koin-core",
+          "io.insert-koin:koin-compose-viewmodel"
         ],
         "sourceSetCInteropMetadataDirectory": "appleMain-cinterop",
         "binaryLayout": "klib",
@@ -83,6 +88,9 @@
         "dependsOn": [],
         "moduleDependency": [
           "org.jetbrains.kotlin:kotlin-stdlib",
+          "Gamopedia.favourite:domain",
+          "Gamopedia.common:domain",
+          "Gamopedia.common:ui",
           "org.jetbrains.compose.runtime:runtime",
           "org.jetbrains.compose.foundation:foundation",
           "org.jetbrains.compose.material3:material3",
@@ -90,7 +98,9 @@
           "org.jetbrains.compose.components:components-resources",
           "org.jetbrains.compose.components:components-ui-tooling-preview",
           "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose",
-          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose"
+          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose",
+          "io.insert-koin:koin-core",
+          "io.insert-koin:koin-compose-viewmodel"
         ],
         "binaryLayout": "klib"
       },
@@ -100,6 +110,9 @@
           "appleMain"
         ],
         "moduleDependency": [
+          "Gamopedia.favourite:domain",
+          "Gamopedia.common:domain",
+          "Gamopedia.common:ui",
           "org.jetbrains.compose.runtime:runtime",
           "org.jetbrains.compose.foundation:foundation",
           "org.jetbrains.compose.material3:material3",
@@ -107,7 +120,9 @@
           "org.jetbrains.compose.components:components-resources",
           "org.jetbrains.compose.components:components-ui-tooling-preview",
           "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose",
-          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose"
+          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose",
+          "io.insert-koin:koin-core",
+          "io.insert-koin:koin-compose-viewmodel"
         ],
         "sourceSetCInteropMetadataDirectory": "iosMain-cinterop",
         "binaryLayout": "klib",
@@ -119,6 +134,9 @@
           "commonMain"
         ],
         "moduleDependency": [
+          "Gamopedia.favourite:domain",
+          "Gamopedia.common:domain",
+          "Gamopedia.common:ui",
           "org.jetbrains.compose.runtime:runtime",
           "org.jetbrains.compose.foundation:foundation",
           "org.jetbrains.compose.material3:material3",
@@ -126,7 +144,9 @@
           "org.jetbrains.compose.components:components-resources",
           "org.jetbrains.compose.components:components-ui-tooling-preview",
           "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose",
-          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose"
+          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose",
+          "io.insert-koin:koin-core",
+          "io.insert-koin:koin-compose-viewmodel"
         ],
         "sourceSetCInteropMetadataDirectory": "nativeMain-cinterop",
         "binaryLayout": "klib",

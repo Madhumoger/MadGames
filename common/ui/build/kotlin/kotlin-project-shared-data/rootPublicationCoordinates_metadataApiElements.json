@@ -1,0 +1,8 @@
+{
+  "buildPath": ":",
+  "projectPath": ":common:ui",
+  "moduleId": {
+    "groupId": "Gamopedia.common",
+    "moduleId": "ui"
+  }
+}

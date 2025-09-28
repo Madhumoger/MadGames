@@ -8,5 +8,5 @@ import org.koin.dsl.ModuleDeclaration
 import org.koin.dsl.module
 
 fun getGameDateModule() = module {
-    factory<GameRepository> { GameRepositoryImpl(apiService = get()) } // every we need for each repository
+    factory<GameRepository> { GameRepositoryImpl(apiService = get(), appDatabase = get()) } // every we need for each repository
 }

@@ -65,9 +65,11 @@
           "nativeMain"
         ],
         "moduleDependency": [
+          "Gamopedia:core-database",
           "Gamopedia:core-network",
           "Gamopedia.game:domain",
           "Gamopedia.common:data",
+          "Gamopedia.common:domain",
           "org.jetbrains.compose.runtime:runtime",
           "org.jetbrains.compose.foundation:foundation",
           "org.jetbrains.compose.material3:material3",
@@ -87,9 +89,11 @@
         "dependsOn": [],
         "moduleDependency": [
           "org.jetbrains.kotlin:kotlin-stdlib",
+          "Gamopedia:core-database",
           "Gamopedia:core-network",
           "Gamopedia.game:domain",
           "Gamopedia.common:data",
+          "Gamopedia.common:domain",
           "org.jetbrains.compose.runtime:runtime",
           "org.jetbrains.compose.foundation:foundation",
           "org.jetbrains.compose.material3:material3",
@@ -108,9 +112,11 @@
           "appleMain"
         ],
         "moduleDependency": [
+          "Gamopedia:core-database",
           "Gamopedia:core-network",
           "Gamopedia.game:domain",
           "Gamopedia.common:data",
+          "Gamopedia.common:domain",
           "org.jetbrains.compose.runtime:runtime",
           "org.jetbrains.compose.foundation:foundation",
           "org.jetbrains.compose.material3:material3",
@@ -131,9 +137,11 @@
           "commonMain"
         ],
         "moduleDependency": [
+          "Gamopedia:core-database",
           "Gamopedia:core-network",
           "Gamopedia.game:domain",
           "Gamopedia.common:data",
+          "Gamopedia.common:domain",
           "org.jetbrains.compose.runtime:runtime",
           "org.jetbrains.compose.foundation:foundation",
           "org.jetbrains.compose.material3:material3",

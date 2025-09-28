@@ -65,6 +65,7 @@
           "nativeMain"
         ],
         "moduleDependency": [
+          "Gamopedia.common:domain",
           "org.jetbrains.compose.runtime:runtime",
           "org.jetbrains.compose.foundation:foundation",
           "org.jetbrains.compose.material3:material3",
@@ -83,6 +84,7 @@
         "dependsOn": [],
         "moduleDependency": [
           "org.jetbrains.kotlin:kotlin-stdlib",
+          "Gamopedia.common:domain",
           "org.jetbrains.compose.runtime:runtime",
           "org.jetbrains.compose.foundation:foundation",
           "org.jetbrains.compose.material3:material3",
@@ -100,6 +102,7 @@
           "appleMain"
         ],
         "moduleDependency": [
+          "Gamopedia.common:domain",
           "org.jetbrains.compose.runtime:runtime",
           "org.jetbrains.compose.foundation:foundation",
           "org.jetbrains.compose.material3:material3",
@@ -119,6 +122,7 @@
           "commonMain"
         ],
         "moduleDependency": [
+          "Gamopedia.common:domain",
           "org.jetbrains.compose.runtime:runtime",
           "org.jetbrains.compose.foundation:foundation",
           "org.jetbrains.compose.material3:material3",

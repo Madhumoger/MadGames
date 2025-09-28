@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.sample.gamopedia.project.composeApp-mergeDebugResources-45:/values-zu/values-zu.xml",
+            "outputFile": "com.sample.gamopedia.project.composeApp-mergeDebugResources-47:/values-zu/values-zu.xml",
             "map": [
                 {
                     "source": "/Users/madhushankarmoger/.gradle/caches/8.13/transforms/f1b4214dc3cea9c84ffaa2545f9963c1/transformed/core-1.15.0/res/values-zu/values-zu.xml",

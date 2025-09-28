@@ -14,8 +14,8 @@ import kotlinx.coroutines.launch
 
 class GameDetailsViewModel(
     private val getGameDetailsUseCase: GetGameDetailsUseCase,
-//    private val saveGameUseCase: SaveGameUseCase,
-//    private val deleteUseCase: DeleteUseCase
+    private val saveGameUseCase: SaveGameUseCase,
+    private val deleteUseCase: DeleteUseCase
 ) : ViewModel() {
 
     private val _uiState = MutableStateFlow(GameDetailsScreen.UiState())
@@ -35,13 +35,13 @@ class GameDetailsViewModel(
             }.launchIn(viewModelScope)
     }
 
-//    fun save(id: Int, image: String, name: String) = viewModelScope.launch {
-//        saveGameUseCase.invoke(id, image, name)
-//    }
-//
-//    fun delete(id: Int) = viewModelScope.launch {
-//        deleteUseCase.invoke(id)
-//    }
+    fun save(id: Int, image: String, name: String) = viewModelScope.launch {
+        saveGameUseCase.invoke(id, image, name)
+    }
+
+    fun delete(id: Int) = viewModelScope.launch {
+        deleteUseCase.invoke(id)
+    }
 
 }
 

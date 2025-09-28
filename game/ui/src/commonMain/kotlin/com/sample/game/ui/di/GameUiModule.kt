@@ -12,8 +12,8 @@ fun getGameUiModule() = module {
     viewModel {
         GameDetailsViewModel(
             getGameDetailsUseCase = get(),
-//            saveGameUseCase = get(),
-//            deleteUseCase = get(),
+            saveGameUseCase = get(),
+            deleteUseCase = get(),
         )
     }
 }

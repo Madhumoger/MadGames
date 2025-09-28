@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core-database/Gamopedia.core-database.jvmMain.iml" filepath="$PROJECT_DIR$/.idea/modules/core-database/Gamopedia.core-database.jvmMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core-database/Gamopedia.core-database.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core-database/Gamopedia.core-database.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/GamopediaXcode.iml" filepath="$PROJECT_DIR$/.idea/GamopediaXcode.iml" />
     </modules>
   </component>

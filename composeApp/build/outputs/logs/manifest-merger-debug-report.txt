@@ -8,14 +8,15 @@ MERGED from [:search:data] /Users/madhushankarmoger/Android Learning/MadGames/se
 MERGED from [:game:data] /Users/madhushankarmoger/Android Learning/MadGames/game/data/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
 MERGED from [:common:data] /Users/madhushankarmoger/Android Learning/MadGames/common/data/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
 MERGED from [:core-network] /Users/madhushankarmoger/Android Learning/MadGames/core-network/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:favourite:data] /Users/madhushankarmoger/Android Learning/MadGames/favourite/data/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
 MERGED from [:core-database] /Users/madhushankarmoger/Android Learning/MadGames/core-database/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
 MERGED from [:search:ui] /Users/madhushankarmoger/Android Learning/MadGames/search/ui/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
 MERGED from [:search:domain] /Users/madhushankarmoger/Android Learning/MadGames/search/domain/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
-MERGED from [:favourite:data] /Users/madhushankarmoger/Android Learning/MadGames/favourite/data/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
-MERGED from [:favourite:domain] /Users/madhushankarmoger/Android Learning/MadGames/favourite/domain/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
 MERGED from [:favourite:ui] /Users/madhushankarmoger/Android Learning/MadGames/favourite/ui/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:favourite:domain] /Users/madhushankarmoger/Android Learning/MadGames/favourite/domain/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
 MERGED from [:game:ui] /Users/madhushankarmoger/Android Learning/MadGames/game/ui/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
 MERGED from [:game:domain] /Users/madhushankarmoger/Android Learning/MadGames/game/domain/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:common:ui] /Users/madhushankarmoger/Android Learning/MadGames/common/ui/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
 MERGED from [:common:domain] /Users/madhushankarmoger/Android Learning/MadGames/common/domain/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
 MERGED from [org.jetbrains.compose.components:components-resources-android:1.9.0] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/5fbd8a560fece511a13ad973988cab4d/transformed/library-release/AndroidManifest.xml:2:1-16:12
 MERGED from [io.coil-kt.coil3:coil-compose-android:3.1.0] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/db158306ad8de2bed3532a73a7d3f4ff/transformed/coil-compose-release/AndroidManifest.xml:2:1-7:12
@@ -77,7 +78,10 @@ MERGED from [androidx.compose.ui:ui-android:1.9.0] /Users/madhushankarmoger/.gra
 MERGED from [androidx.activity:activity-ktx:1.11.0] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/c9411100931aa9d3ef54c9e774da6ed4/transformed/activity-ktx-1.11.0/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.activity:activity:1.11.0] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/179d99f2b891778ee8860ce15b84c73b/transformed/activity-1.11.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity-compose:1.11.0] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/df5033a9f3913f128dafd4c9b3708267/transformed/activity-compose-1.11.0/AndroidManifest.xml:2:1-7:12
+MERGED from [app.cash.sqldelight:android-driver:2.0.1] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/c3945f8c7c74811408141d9c5072c728/transformed/android-driver-2.0.1-debug/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.core:core-viewtree:1.0.0] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/36610a29b7cbbdee760d250b183b6cb8/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/138264205bfbaab5a2f239c86354689c/transformed/sqlite-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/fb182c77fe99f3a8fbab25fc24933c9f/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/14a2f2546a14a6a2267a1edcc2f69124/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/07da2e2b19095a3f939de17d68b9909a/transformed/profileinstaller-1.4.1/AndroidManifest.xml:17:1-55:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/2dd8f86094cf6d46fe6456a18d094510/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
@@ -163,22 +167,24 @@ MERGED from [:common:data] /Users/madhushankarmoger/Android Learning/MadGames/co
 MERGED from [:common:data] /Users/madhushankarmoger/Android Learning/MadGames/common/data/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
 MERGED from [:core-network] /Users/madhushankarmoger/Android Learning/MadGames/core-network/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
 MERGED from [:core-network] /Users/madhushankarmoger/Android Learning/MadGames/core-network/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:favourite:data] /Users/madhushankarmoger/Android Learning/MadGames/favourite/data/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:favourite:data] /Users/madhushankarmoger/Android Learning/MadGames/favourite/data/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
 MERGED from [:core-database] /Users/madhushankarmoger/Android Learning/MadGames/core-database/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
 MERGED from [:core-database] /Users/madhushankarmoger/Android Learning/MadGames/core-database/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
 MERGED from [:search:ui] /Users/madhushankarmoger/Android Learning/MadGames/search/ui/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
 MERGED from [:search:ui] /Users/madhushankarmoger/Android Learning/MadGames/search/ui/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
 MERGED from [:search:domain] /Users/madhushankarmoger/Android Learning/MadGames/search/domain/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
 MERGED from [:search:domain] /Users/madhushankarmoger/Android Learning/MadGames/search/domain/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
-MERGED from [:favourite:data] /Users/madhushankarmoger/Android Learning/MadGames/favourite/data/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
-MERGED from [:favourite:data] /Users/madhushankarmoger/Android Learning/MadGames/favourite/data/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
-MERGED from [:favourite:domain] /Users/madhushankarmoger/Android Learning/MadGames/favourite/domain/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
-MERGED from [:favourite:domain] /Users/madhushankarmoger/Android Learning/MadGames/favourite/domain/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
 MERGED from [:favourite:ui] /Users/madhushankarmoger/Android Learning/MadGames/favourite/ui/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
 MERGED from [:favourite:ui] /Users/madhushankarmoger/Android Learning/MadGames/favourite/ui/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:favourite:domain] /Users/madhushankarmoger/Android Learning/MadGames/favourite/domain/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:favourite:domain] /Users/madhushankarmoger/Android Learning/MadGames/favourite/domain/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
 MERGED from [:game:ui] /Users/madhushankarmoger/Android Learning/MadGames/game/ui/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
 MERGED from [:game:ui] /Users/madhushankarmoger/Android Learning/MadGames/game/ui/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
 MERGED from [:game:domain] /Users/madhushankarmoger/Android Learning/MadGames/game/domain/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
 MERGED from [:game:domain] /Users/madhushankarmoger/Android Learning/MadGames/game/domain/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:common:ui] /Users/madhushankarmoger/Android Learning/MadGames/common/ui/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:common:ui] /Users/madhushankarmoger/Android Learning/MadGames/common/ui/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
 MERGED from [:common:domain] /Users/madhushankarmoger/Android Learning/MadGames/common/domain/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
 MERGED from [:common:domain] /Users/madhushankarmoger/Android Learning/MadGames/common/domain/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
 MERGED from [org.jetbrains.compose.components:components-resources-android:1.9.0] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/5fbd8a560fece511a13ad973988cab4d/transformed/library-release/AndroidManifest.xml:5:5-44
@@ -301,8 +307,14 @@ MERGED from [androidx.activity:activity:1.11.0] /Users/madhushankarmoger/.gradle
 MERGED from [androidx.activity:activity:1.11.0] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/179d99f2b891778ee8860ce15b84c73b/transformed/activity-1.11.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.activity:activity-compose:1.11.0] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/df5033a9f3913f128dafd4c9b3708267/transformed/activity-compose-1.11.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.activity:activity-compose:1.11.0] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/df5033a9f3913f128dafd4c9b3708267/transformed/activity-compose-1.11.0/AndroidManifest.xml:5:5-44
+MERGED from [app.cash.sqldelight:android-driver:2.0.1] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/c3945f8c7c74811408141d9c5072c728/transformed/android-driver-2.0.1-debug/AndroidManifest.xml:5:5-44
+MERGED from [app.cash.sqldelight:android-driver:2.0.1] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/c3945f8c7c74811408141d9c5072c728/transformed/android-driver-2.0.1-debug/AndroidManifest.xml:5:5-44
 MERGED from [androidx.core:core-viewtree:1.0.0] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/36610a29b7cbbdee760d250b183b6cb8/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.core:core-viewtree:1.0.0] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/36610a29b7cbbdee760d250b183b6cb8/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/138264205bfbaab5a2f239c86354689c/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/138264205bfbaab5a2f239c86354689c/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/fb182c77fe99f3a8fbab25fc24933c9f/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/fb182c77fe99f3a8fbab25fc24933c9f/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/14a2f2546a14a6a2267a1edcc2f69124/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/14a2f2546a14a6a2267a1edcc2f69124/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/madhushankarmoger/.gradle/caches/8.13/transforms/07da2e2b19095a3f939de17d68b9909a/transformed/profileinstaller-1.4.1/AndroidManifest.xml:21:5-44

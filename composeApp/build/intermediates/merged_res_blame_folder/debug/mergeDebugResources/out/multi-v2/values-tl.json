@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.sample.gamopedia.project.composeApp-mergeDebugResources-45:/values-tl/values-tl.xml",
+            "outputFile": "com.sample.gamopedia.project.composeApp-mergeDebugResources-47:/values-tl/values-tl.xml",
             "map": [
                 {
                     "source": "/Users/madhushankarmoger/.gradle/caches/8.13/transforms/264e8ce1c214e5b132b50ad58bb85aa3/transformed/foundation-release/res/values-tl/values-tl.xml",

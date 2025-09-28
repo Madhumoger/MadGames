@@ -26,7 +26,7 @@ fun App() {
             listOf(
                 GameNavGraph,
                 SearchNavGraph,
-//                FavouriteNavGraph
+                FavouriteNavGraph
             ).forEach {
                 it.build(
                     modifier = Modifier.padding(top = bottomPadding).fillMaxSize(),
