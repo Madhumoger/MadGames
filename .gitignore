@@ -16,3 +16,7 @@
 /search/data/build/
 /search/domain/build/
 /search/ui/build/
+
+/common/data/build/
+/common/domain/build/
+/common/ui/build/
