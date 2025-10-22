@@ -4,7 +4,7 @@ import app.cash.sqldelight.coroutines.asFlow
 import app.cash.sqldelight.coroutines.mapToList
 import com.sample.common.domain.model.Game
 import com.sample.coreDatabase.AppDatabase
-import com.sample.favorite.domain.repository.FavoriteRepository
+import com.sample.favourite.domain.repository.FavoriteRepository
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.IO
 import kotlinx.coroutines.flow.Flow

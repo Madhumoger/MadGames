@@ -31,8 +31,8 @@ fun GameDetailsResponse.toDomainGameDetails(): GameDetails {
         developers = developers.map {
             Developer(
                 name = it.name,
-                image = it.image_background,
-                gameCount = it.games_count
+                image = it.imageBackground,
+                gameCount = it.gamesCount
             )
         },
         tags = tags.map {

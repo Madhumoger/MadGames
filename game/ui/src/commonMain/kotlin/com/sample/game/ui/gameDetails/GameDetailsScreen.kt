@@ -20,6 +20,8 @@ import androidx.compose.foundation.lazy.LazyRow
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.ArrowBack
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.CircularProgressIndicator
@@ -199,7 +201,7 @@ fun GameDetailsScreenContent(
                             )
                             Spacer(Modifier.height(8.dp))
                             Text(
-                                text = "Gamecount: " + it.gameCount,
+                                text = "Game count: " + it.gameCount,
 //                                style = MaterialTheme.typography.caption
                             )
 
@@ -289,7 +291,7 @@ fun GameDetailsScreenContent(
                             )
                             Spacer(Modifier.height(8.dp))
                             Text(
-                                text = "Gamecount: " + it.gameCount,
+                                text = "Game count: " + it.gameCount,
 //                                style = MaterialTheme.typography.caption
                             )
                         }
@@ -311,11 +313,10 @@ fun GameDetailsScreenContent(
                     onClick = onBackClick,
                     modifier = Modifier.background(color = Color.White, shape = CircleShape)
                 ) {
-                    //TODO
-//                    Icon(
-//                        imageVector = Icons.Default.ArrowBack, contentDescription = null,
-//                        modifier = Modifier.padding(4.dp)
-//                    )
+                    Icon(
+                        imageVector = Icons.Default.ArrowBack, contentDescription = null,
+                        modifier = Modifier.padding(4.dp)
+                    )
                 }
 
                 Spacer(modifier = Modifier.weight(1f))

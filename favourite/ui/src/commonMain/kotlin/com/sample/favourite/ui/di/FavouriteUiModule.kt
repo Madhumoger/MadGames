@@ -1,15 +1,17 @@
 package com.sample.favourite.ui.di
 
-import com.sample.favourite.ui.FavouriteViewModel
+import com.sample.favourite.ui.FavoriteViewModel
 import org.koin.core.module.Module
 import org.koin.core.module.dsl.viewModel
 import org.koin.dsl.module
 
 fun getFavoriteUiModule(): Module{
     return module {
-        viewModel { FavouriteViewModel(
-            getAllLocalCahcedGamesUseCase = get(),
-            deleteUseCase = get()
-        ) }
+        viewModel {
+            FavoriteViewModel(
+                getAllLocalCachedGamesUseCase = get(),
+                deleteUseCase = get()
+            )
+        }
     }
 }

@@ -69,11 +69,13 @@
           "org.jetbrains.compose.runtime:runtime",
           "org.jetbrains.compose.foundation:foundation",
           "org.jetbrains.compose.material3:material3",
+          "org.jetbrains.compose.material:material-icons-extended",
           "org.jetbrains.compose.ui:ui",
           "org.jetbrains.compose.components:components-resources",
           "org.jetbrains.compose.components:components-ui-tooling-preview",
           "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose",
-          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose"
+          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose",
+          "io.insert-koin:koin-core"
         ],
         "sourceSetCInteropMetadataDirectory": "appleMain-cinterop",
         "binaryLayout": "klib",
@@ -88,11 +90,13 @@
           "org.jetbrains.compose.runtime:runtime",
           "org.jetbrains.compose.foundation:foundation",
           "org.jetbrains.compose.material3:material3",
+          "org.jetbrains.compose.material:material-icons-extended",
           "org.jetbrains.compose.ui:ui",
           "org.jetbrains.compose.components:components-resources",
           "org.jetbrains.compose.components:components-ui-tooling-preview",
           "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose",
-          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose"
+          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose",
+          "io.insert-koin:koin-core"
         ],
         "binaryLayout": "klib"
       },
@@ -106,11 +110,13 @@
           "org.jetbrains.compose.runtime:runtime",
           "org.jetbrains.compose.foundation:foundation",
           "org.jetbrains.compose.material3:material3",
+          "org.jetbrains.compose.material:material-icons-extended",
           "org.jetbrains.compose.ui:ui",
           "org.jetbrains.compose.components:components-resources",
           "org.jetbrains.compose.components:components-ui-tooling-preview",
           "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose",
-          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose"
+          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose",
+          "io.insert-koin:koin-core"
         ],
         "sourceSetCInteropMetadataDirectory": "iosMain-cinterop",
         "binaryLayout": "klib",
@@ -126,11 +132,13 @@
           "org.jetbrains.compose.runtime:runtime",
           "org.jetbrains.compose.foundation:foundation",
           "org.jetbrains.compose.material3:material3",
+          "org.jetbrains.compose.material:material-icons-extended",
           "org.jetbrains.compose.ui:ui",
           "org.jetbrains.compose.components:components-resources",
           "org.jetbrains.compose.components:components-ui-tooling-preview",
           "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose",
-          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose"
+          "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose",
+          "io.insert-koin:koin-core"
         ],
         "sourceSetCInteropMetadataDirectory": "nativeMain-cinterop",
         "binaryLayout": "klib",

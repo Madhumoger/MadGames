@@ -5,20 +5,21 @@ import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
-import androidx.compose.material3.CircularProgressIndicator
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.automirrored.filled.ArrowBack
+import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Icon
-import androidx.compose.material3.IconButton
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
-import androidx.compose.material3.TextField
-import androidx.compose.material3.TextFieldDefaults
+import androidx.compose.material3.TopAppBar
+import androidx.compose.material3.TopAppBarColors
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.sample.common.domain.model.Game
-import com.sample.common.ui.listItem.GameItem
+import com.sample.common.ui.listitem.GameItem
 import org.koin.compose.viewmodel.koinViewModel
 
 @Composable
@@ -43,6 +44,7 @@ fun FavoriteScreen(
 
 }
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun FavoriteScreenContent(
     modifier: Modifier = Modifier, games: List<Game>,
@@ -56,12 +58,16 @@ fun FavoriteScreenContent(
             title = {
                 Text("Favorites")
             }, navigationIcon = {
-                //TODO: IMAGE
-//                Icon(
-//                    imageVector = Icons.Default.ArrowBack, contentDescription = null,
-//                    modifier = Modifier.clickable { onBackClick() })
-            }, contentColor = Color.Black,
-            backgroundColor = Color.White
+                Icon(
+                    imageVector = Icons.AutoMirrored.Filled.ArrowBack, contentDescription = null,
+                    modifier = Modifier.clickable { onBackClick() })
+            }, colors = TopAppBarColors(
+                containerColor = Color.White,
+                scrolledContainerColor =Color.White,
+                navigationIconContentColor = Color.Green,
+                titleContentColor = Color.Black,
+                actionIconContentColor = Color.White
+            )
         )
     }) {
         if (games.isEmpty()) {

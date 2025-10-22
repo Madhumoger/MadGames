@@ -1,20 +1,19 @@
 package com.sample.gamopedia.project
 
 import androidx.compose.foundation.layout.WindowInsets
+import androidx.compose.foundation.layout.asPaddingValues
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.statusBars
 import androidx.compose.material3.MaterialTheme
-import androidx.compose.runtime.*
-import androidx.compose.ui.Modifier
-import androidx.navigation.compose.rememberNavController
-import org.jetbrains.compose.ui.tooling.preview.Preview
-import androidx.compose.foundation.layout.asPaddingValues
-import androidx.compose.foundation.layout.padding
 import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
 import androidx.navigation.compose.NavHost
-import com.sample.gamopedia.project.navigation.FavouriteNavGraph
+import androidx.navigation.compose.rememberNavController
+import com.sample.gamopedia.project.navigation.FavoriteNavGraph
 import com.sample.gamopedia.project.navigation.GameNavGraph
 import com.sample.gamopedia.project.navigation.SearchNavGraph
+import org.jetbrains.compose.ui.tooling.preview.Preview
 
 @Composable
 @Preview
@@ -26,7 +25,7 @@ fun App() {
             listOf(
                 GameNavGraph,
                 SearchNavGraph,
-                FavouriteNavGraph
+                FavoriteNavGraph
             ).forEach {
                 it.build(
                     modifier = Modifier.padding(top = bottomPadding).fillMaxSize(),

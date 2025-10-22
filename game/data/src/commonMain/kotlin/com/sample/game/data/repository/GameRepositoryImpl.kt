@@ -2,13 +2,15 @@ package com.sample.game.data.repository
 
 import com.sample.common.data.mappers.toDomainListOfGames
 import com.sample.common.domain.model.Game
+import com.sample.coreDatabase.AppDatabase
 import com.sample.coreNetwork.apiService.ApiService
 import com.sample.game.data.mappers.toDomainGameDetails
 import com.sample.game.domain.model.GameDetails
 import com.sample.game.domain.repository.GameRepository
 
 class GameRepositoryImpl(
-    private val apiService: ApiService, private val appDatabase: AppDatabase) : GameRepository {
+    private val apiService: ApiService, private val appDatabase: AppDatabase
+) : GameRepository {
 
     override suspend fun getGames(): Result<List<Game>> {
         val result = apiService.getGames()

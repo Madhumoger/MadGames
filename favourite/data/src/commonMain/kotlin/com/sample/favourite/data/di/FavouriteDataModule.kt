@@ -2,7 +2,7 @@ package com.sample.favourite.data.di
 
 import com.sample.coreDatabase.AppDatabase
 import com.sample.favourite.data.repository.FavoriteRepoImpl
-import com.sample.favourite.domain.repository.*
+import com.sample.favourite.domain.repository.FavoriteRepository
 import org.koin.core.module.Module
 import org.koin.dsl.module
 

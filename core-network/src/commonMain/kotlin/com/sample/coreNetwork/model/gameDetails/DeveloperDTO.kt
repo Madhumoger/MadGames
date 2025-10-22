@@ -4,9 +4,9 @@ import kotlinx.serialization.Serializable
 
 @Serializable
 data class DeveloperDTO(
-    val games_count: Int,
+    val gamesCount: Int,
     val id: Int,
-    val image_background: String,
+    val imageBackground: String,
     val name: String,
     val slug: String
 )

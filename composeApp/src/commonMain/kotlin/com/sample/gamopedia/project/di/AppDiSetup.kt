@@ -1,6 +1,10 @@
 package com.sample.gamopedia.project.di
 
+import com.sample.coreDatabase.di.getCoreDatabaseModule
 import com.sample.coreNetwork.di.getCoreNetworkModule
+import com.sample.favourite.data.di.getFavoriteDataModule
+import com.sample.favourite.domain.di.getFavoriteDomainModule
+import com.sample.favourite.ui.di.getFavoriteUiModule
 import com.sample.game.domain.di.getGameDomainModule
 import com.sample.game.data.di.getGameDateModule
 import com.sample.game.ui.di.getGameUiModule

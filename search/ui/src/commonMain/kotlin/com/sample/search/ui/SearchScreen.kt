@@ -14,6 +14,8 @@ import androidx.compose.foundation.lazy.grid.GridCells
 import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
 import androidx.compose.foundation.lazy.grid.items
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
@@ -40,7 +42,7 @@ fun SearchScreen(modifier: Modifier = Modifier, onClick: (Int) -> Unit,
 ) {
     val viewModel = koinViewModel<SearchViewModel>()
     val uiState = viewModel.uiState.collectAsStateWithLifecycle()
-    var query = rememberSaveable { mutableStateOf("") }
+    val query = rememberSaveable { mutableStateOf("") }
 
     SearchScreenContent(
         modifier = modifier.fillMaxSize(), uiState = uiState.value,
@@ -67,8 +69,7 @@ fun SearchScreenContent(
         topBar = {
             Row(modifier = Modifier.padding(4.dp).fillMaxWidth()) {
                 IconButton(onClick = onBackClick) {
-                    //TODO
-//                    Icon(imageVector = Icons.Default.ArrowBack, contentDescription = null)
+                    Icon(imageVector = Icons.AutoMirrored.Filled.ArrowBack, contentDescription = null)
                 }
                 Spacer(modifier = Modifier.width(8.dp))
                 TextField(

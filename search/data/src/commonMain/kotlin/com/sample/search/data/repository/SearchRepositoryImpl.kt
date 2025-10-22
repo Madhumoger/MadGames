@@ -5,10 +5,7 @@ import com.sample.common.domain.model.Game
 import com.sample.coreNetwork.apiService.ApiService
 import com.sample.search.domain.repository.SearchRepository
 
-
-class SearchRepositoryImpl(
-    private val apiService: ApiService
-) : SearchRepository {
+class SearchRepositoryImpl(private val apiService: ApiService) : SearchRepository {
 
     override suspend fun search(q: String): Result<List<Game>> {
         return try {

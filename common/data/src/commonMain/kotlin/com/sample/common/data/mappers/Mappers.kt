@@ -8,7 +8,7 @@ fun List<Result>.toDomainListOfGames() :List<Game> = map { game ->
     Game(
         id = game.id,
         name = game.name,
-        imageUrl = game.background_image
+        imageUrl = game.backgroundImage
     )
 }
 
